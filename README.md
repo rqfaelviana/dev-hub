@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte de um evento exclusivo e gratuito promo
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="/assets/central dev-hub.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -50,4 +50,3 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por [Seu Nome](https://github.com/nwrafaa) | Sinta-se à vontade para contribuir ou sugerir melhorias! :wave: [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)

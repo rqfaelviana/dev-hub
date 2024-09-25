@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte de um evento exclusivo e gratuito promo
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="/assets/central dev-hub.png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/central dev-hub.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

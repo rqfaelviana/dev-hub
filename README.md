@@ -49,5 +49,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ por [Seu Nome](https://github.com/nwrafaa) | Sinta-se à vontade para contribuir ou sugerir melhorias! :wave: [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)

@@ -36,7 +36,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 O Dev Hub é um projeto que traz uma central de compartilhamento para todas as coisas relacionadas ao meu desenvolvimento, funcionando como um cartão de visitas online. Essa ideia nasceu durante um curso da Rocketseat, onde aprendi sobre desenvolvimento web.
 
-- [Acesse o projeto finalizado, online](https://nwrafaa.github.io/dev-hub)
+- [Acesse o projeto finalizado, online](https://rqfaelviana.github.io/dev-hub)
 
 - [Assista às aulas que guiaram o desenvolvimento do projeto](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
